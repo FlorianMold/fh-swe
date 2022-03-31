@@ -1,6 +1,8 @@
 [submodule "fh-microservice"]
 	path = fh-microservice
 	url = git@github.com:FlorianMold/fh-microservice.git
+	branch = main
 [submodule "fh-gilded-rose-refactoring"]
 	path = fh-gilded-rose-refactoring
 	url = git@github.com:FlorianMold/fh-gilded-rose-refactoring.git
+	branch = main
